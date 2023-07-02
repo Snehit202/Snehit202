@@ -1,5 +1,5 @@
 Hi, I’m Snehit Panghal.
-I’m interested in theoretical particle physics and particle phenomenology.
+I’m interested in theoretical physic.
 Some interesting computional physics problems that I've worked on are archived here.
 
 <!---
