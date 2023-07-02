@@ -1,5 +1,5 @@
 Hi, I’m Snehit Panghal.
-I’m interested in theoretical physic.
+I’m interested in theoretical physics.
 Some interesting computional physics problems that I've worked on are archived here.
 
 <!---
